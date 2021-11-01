@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test_lambda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cmd/resource/testdata/test_lambda.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
